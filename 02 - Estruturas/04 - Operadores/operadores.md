@@ -5,7 +5,7 @@ Expressões são construídas a partir de operandos e operadores. Os operadores 
 **Existem três tipos de operadores**:
 
 - Operadores unários. Os operadores unários pegam um operando e usam notação prefixada (como  –x) ou notação pós-fixada (como  x++).
-- Operadores binários. Os operadores binários recebem dois operandos e todos usam notação infixa (como x + y).
+- Operadores binários. Os operadores binários recebem dois operandos e todos usam <a href="https://pt.wikipedia.org/wiki/Nota%C3%A7%C3%A3o_infixa"> notação infixa </a>(como x + y).
 - Operador ternário. ?:Existe apenas um operador ternário, , que recebe três operandos e usa notação infixa ( c ? x : y).
 
 ## Precedência e associatividade do operador
